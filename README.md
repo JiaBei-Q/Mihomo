@@ -9,18 +9,19 @@
 
 Android<br>
 ====
-Android App<br>
--------
-即装即用，很贴心<br>
-* [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)<br><br>
+>App<br>
+>-------
+>即装即用，暖暖的很贴心<br>
+>* [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)<br>
 
-Android For Magisk<br>
--------
-同时兼容KernelSU、APatch
-* [Box4Magisk](https://github.com/CHIZI-0618/box4magisk)
-* [Box for Root](https://github.com/taamarin/box_for_magisk)
-* [Surfing](https://github.com/MoGuangYu/Surfing)
-* [akashaProxy](https://github.com/ModuleList/akashaProxy)<br>
+>For Magisk<br>
+>-------
+>同时兼容KernelSU、APatch<br>
+>需要一定的动手能力及对 yaml 语法有一定的了解，没事多看看文档，复制粘贴起来应该不是很难
+>* [Box4Magisk](https://github.com/CHIZI-0618/box4magisk)
+>* [Box for Root](https://github.com/taamarin/box_for_magisk)
+>* [Surfing](https://github.com/MoGuangYu/Surfing)
+>* [akashaProxy](https://github.com/ModuleList/akashaProxy)<br>
 
 Windows<br>
 ====
