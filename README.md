@@ -33,9 +33,7 @@ Windows<br>
 
 配置<br>
 ====
-该配置已在 Android For Magisk、Windows平台测试，能跑<br>
-不排除可能存在问题，如果发现可发Issues，或者到Telegram频道（@ksc666）反馈，我会尽快修复<br>
-大家伙共同维护一个适合大部分人的懒人配置<br>
+该配置已在 Android For Magisk、Windows平台测试，能跑，但不排除可能存在问题，有问题可发Issues，或者到Telegram频道（@ksc666）反馈，我会尽快修复<br>
 
 * [Mihomo配置文件](https://github.com/XXOOXXXXX/Clash.Meta-mihomo-/blob/main/config.yaml)
 
